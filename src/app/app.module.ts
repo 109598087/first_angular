@@ -3,10 +3,16 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ChooseProjectPageComponent } from './choose-project-page/choose-project-page.component';
+
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ChooseProjectPageComponent,
+
+
   ],
   imports: [
     BrowserModule,

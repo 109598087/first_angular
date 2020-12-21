@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Myfirsta"
+  "defaultProject": "Myfirsta",
+  "cli": {
+    "analytics": "c4b73424-a9da-4d5d-8685-6bad70e774a0"
+  }
 }
